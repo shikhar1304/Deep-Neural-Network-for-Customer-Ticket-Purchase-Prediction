@@ -1,0 +1,1 @@
+Developed a deep neural network from scratch for binary classification to predict customer ticket purchases based on social media engagement data. Implemented key neural network components, including forward propagation, cost computation, and backpropagation, without using high-level libraries. Achieved an accuracy of 85% on test data, demonstrating strong predictive performance.
